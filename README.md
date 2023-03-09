@@ -1,1 +1,1 @@
-# BasicPerceptron
+# simple-nor-perceptron
