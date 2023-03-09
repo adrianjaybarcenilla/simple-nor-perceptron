@@ -130,9 +130,9 @@
             this.label4.Font = new System.Drawing.Font("Segoe UI", 11.25F);
             this.label4.Location = new System.Drawing.Point(52, 9);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(113, 20);
+            this.label4.Size = new System.Drawing.Size(115, 20);
             this.label4.TabIndex = 8;
-            this.label4.Text = "XOR Perceptron";
+            this.label4.Text = "NOR Perceptron";
             this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // Form1

@@ -103,10 +103,10 @@ namespace BasicPerceptron
 
             outputs = new int[]
             {
+                1,
                 0,
                 0,
-                0,
-                1
+                0
             };
 
             weight1 = rand.NextDouble();
